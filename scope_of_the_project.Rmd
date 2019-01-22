@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
-## scope of the project
+## change title
 * objective 1 
 * objective 2
 * objective 3
