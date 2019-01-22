@@ -1,0 +1,21 @@
+---
+title: "scope_of_the_project"
+author: "Yarmaine Pierson"
+date: "1/18/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+## scope of the project
+* objective 1 
+* objective 2
+* objective 3
+
+![ Rihanna Talk That Talk ](https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Rihanna_-_Talk_That_Talk_%28deluxe%29.png/220px-Rihanna_-_Talk_That_Talk_%28deluxe%29.png)
+
+
+
